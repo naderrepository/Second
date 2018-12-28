@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //pep insists on changes
+            //pep go to Hell
             Console.WriteLine("pep");
         }
     }

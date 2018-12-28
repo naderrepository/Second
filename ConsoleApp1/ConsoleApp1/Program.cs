@@ -10,8 +10,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            //code is Editted
-            //also this Edited
             Console.WriteLine("pep");
         }
     }
